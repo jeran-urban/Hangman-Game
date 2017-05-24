@@ -13,7 +13,8 @@ h1, h2{
 }
 
 h2 {
-	width: 25%;
+	min-width: 25%;
+	max-width: 45%;
 }
 
 #game {
@@ -46,4 +47,5 @@ h2 {
 
 #easteregg {
 	display: none;
+	float: right;
 }
